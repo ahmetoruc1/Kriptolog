@@ -15,7 +15,7 @@ class _XRPState extends State<XRP> {
         body: Column(
             children: <Widget>[
               Container(
-                  height: 67,
+                  height: 60,
                   color: Colors.indigo,
 
                   child: Row(
@@ -29,7 +29,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 46,
                   color: Colors.red,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -42,7 +42,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.red,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -55,7 +55,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.green,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -68,7 +68,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.green,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -81,7 +81,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.red,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -94,7 +94,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.red,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -107,7 +107,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.green,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -120,7 +120,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.red,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -133,7 +133,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.green,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -146,7 +146,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.red,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -159,7 +159,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.green,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -172,7 +172,7 @@ class _XRPState extends State<XRP> {
                   )
               ),
               Container(
-                  height: 51,
+                  height: 45,
                   color: Colors.green,
                   child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,

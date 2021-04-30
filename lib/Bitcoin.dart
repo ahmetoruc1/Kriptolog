@@ -19,7 +19,7 @@ class _BTCState extends State<BTC> {
       body: Column(
         children:<Widget>[
           Container(
-            height:67 ,
+            height:60,
             color: Colors.indigo,
 
             child: Row(
@@ -33,7 +33,7 @@ class _BTCState extends State<BTC> {
           )
           ),
           Container(
-              height:51  ,
+              height:46  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -46,7 +46,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.red,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -59,7 +59,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -72,7 +72,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45 ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -85,7 +85,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.red,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -98,7 +98,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -111,7 +111,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -124,7 +124,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -137,7 +137,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -150,7 +150,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -163,7 +163,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.green,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -176,7 +176,7 @@ class _BTCState extends State<BTC> {
               )
           ),
           Container(
-              height:51  ,
+              height:45  ,
               color: Colors.red,
               child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
